@@ -26,5 +26,9 @@ To get it, run the fellowing commands :
     % git submodule init
     % git submodule update
 
+## Usage ##
+
+The app stores the wiki contents as a Git repository in `${HOME}/wiki/`.
+
 
 [gs]: http://www.kernel.org/pub/software/scm/git/docs/git-submodule.html
